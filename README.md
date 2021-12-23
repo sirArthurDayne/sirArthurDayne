@@ -10,8 +10,10 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-    <p>🔭 I’m currently working on:</p><a href="https://github.com/sirArthurDayne/aoc2021">Aoc2021</a> | <a href="https://github.com/sirArthurDayne/dotfiles">dotfiles</a>
+    <p>🔭 I’m currently working on:</p>
+    <a href="https://github.com/sirArthurDayne/aoc2021">Aoc2021</a> | <a href="https://github.com/sirArthurDayne/dotfiles">dotfiles</a>
     <p>🌱 I’m currently learning: Cibersecurity | M365 | Azure | PowerShell | CTF | Go </p>
-    <p><a href = "mailto:xavierivan2000@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a></p>
-    <p><a href="www.linkedin.com/in/xavier-lamela-b173a8223"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
+    <p> <a href = "mailto:xavierivan2000@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+        <a href= "www.linkedin.com/in/xavier-lamela-b173a8223"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    </p>
 </div>
