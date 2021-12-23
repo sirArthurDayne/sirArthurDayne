@@ -5,12 +5,17 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/sirArthurDayne">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirArthurDayne&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirArthurDayne&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirArthurDayne&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirArthurDayne&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
-- 🔭 I’m currently working on: [Advent of Code 2021](https://github.com/sirArthurDayne/aoc2021) | [dotfiles](https://github.com/sirArthurDayne/dotfiles)
-- 🌱 I’m currently learning: Cibersecurity | M365 | Azure | CTF | HackTheBox
-<!-- - 👯 I’m looking to collaborate on: -->
-<!-- - 🤔 I’m looking for help with ... -->
-- 📫 How to reach me: xavierivan2000@hotmail.com
-- ⚡ Fun fact: I love making creative coding with GLSL.
+
+<div>
+    <ul>
+        <li>🔭 I’m currently working on: <a href="https://github.com/sirArthurDayne/aoc2021">Advent of Code 2021</a> | <a href="https://github.com/sirArthurDayne/dotfiles">dotfiles</a> </li>
+        <li> 🌱 I’m currently learning: Cibersecurity | M365 | Azure | CTF | HackTheBox </li>
+    <!-- - 👯 I’m looking to collaborate on: -->
+    <!-- - 🤔 I’m looking for help with ... -->
+    <!-- - 📫 How to reach me: xavierivan2000@hotmail.com -->
+    <!-- - ⚡ Fun fact: I love making creative coding with GLSL. -->
+    </ul>
+</div>
