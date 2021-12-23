@@ -8,9 +8,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirArthurDayne&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirArthurDayne&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
-
+<p>🔭 Currents Proyects</p>
 <div>
-    <p>🔭 I’m currently working on:</p>
     <a href="https://github.com/sirArthurDayne/aoc2021">Aoc2021</a> | <a href="https://github.com/sirArthurDayne/dotfiles">dotfiles</a>
     <p>🌱 I’m currently learning: Cibersecurity | M365 | Azure | PowerShell | CTF | Go </p>
     <p> <a href = "mailto:xavierivan2000@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
