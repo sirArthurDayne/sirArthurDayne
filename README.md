@@ -10,12 +10,8 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-    <ul>
-        <li>🔭 I’m currently working on: <a href="https://github.com/sirArthurDayne/aoc2021">Advent of Code 2021</a> | <a href="https://github.com/sirArthurDayne/dotfiles">dotfiles</a> </li>
-        <li> 🌱 I’m currently learning: Cibersecurity | M365 | Azure | CTF | HackTheBox </li>
-    <!-- - 👯 I’m looking to collaborate on: -->
-    <!-- - 🤔 I’m looking for help with ... -->
-    <!-- - 📫 How to reach me: xavierivan2000@hotmail.com -->
-    <!-- - ⚡ Fun fact: I love making creative coding with GLSL. -->
-    </ul>
+    <p>🔭 I’m currently working on:<a href="https://github.com/sirArthurDayne/aoc2021">Aoc2021</a>| <a href="https://github.com/sirArthurDayne/dotfiles">dotfiles</a> </p>
+    <p>🌱 I’m currently learning: Cibersecurity | M365 | Azure | PowerShell | CTF | Go </p>
+    <p><a href = "mailto:xavierivan2000@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a></p>
+    <p><a href="www.linkedin.com/in/xavier-lamela-b173a8223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
 </div>
